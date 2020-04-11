@@ -5,6 +5,8 @@ A terraform configuration to install Magento2 on DigitalOcean (Ubuntu 18.04) usi
 ## Install Terraform (in not installed)
 `brew intall terraform`
 
+## Edit configuration
+
 Edit secret values and SSH key locations in `variables.tf`.
 
 Edit name and server region in `magento.tf`.
